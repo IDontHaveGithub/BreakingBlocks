@@ -2,4 +2,5 @@
 Atari breakout remake
 
 
-This was an exercise for school, it was fully written down before and none of this code is really something I thought of myself
+This was an exercise for school, it was fully written down before and none of this code is really something I thought of myself.
+I did make the art, cause that's so hard...
